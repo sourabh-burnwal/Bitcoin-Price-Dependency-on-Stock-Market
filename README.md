@@ -27,7 +27,7 @@
   - Gold historic data is from World Gold Council (GoldHub)
 
 ### The paper we are following : 
-  Rama Malladi et al. (2019), "Predicting Bitcoin Return And Volatility Using Gold And The Stock Market"
+  - Rama Malladi et al. (2019), "Predicting Bitcoin Return And Volatility Using Gold And The Stock Market"
 
 ### The Extracted Features :
   - Daily Returns of Bitcoin, Gold, Oil, SP500
