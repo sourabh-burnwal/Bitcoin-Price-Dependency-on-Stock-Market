@@ -1,5 +1,5 @@
 # Bitcoin-Price-Dependency-on-Stock-Market
-#### How Bitcoin price movements are related to or affected by the various fluctuations in Stock market. We have considered SP500, Oil Prices, Gold Prices and finding how these three and Bitcoin prices are correlated. Also, how their volatilities affect the others. The goal of this project is to come up with a conclusion which will help in Bitcoin price prediction.
+#### The underlying hypothesis is based to How Bitcoin price movements are related to or affected by the various fluctuations in Stock market. We have considered SP500, Oil Prices, Gold Prices and finding how these three and Bitcoin prices are correlated. Also, how their volatilities affect the others. The goal of this project is to come up with a conclusion which will help in Bitcoin price prediction.
 
 
 ```
