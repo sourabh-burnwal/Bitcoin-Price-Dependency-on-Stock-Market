@@ -10,12 +10,14 @@
 │    ├── oil_price_raw.csv
 │    ├── gold_df.csv
 │    ├── vixcurrent.csv
+│    ├── stationary_data.csv  (normalised and stationary dataset)
 │    └── dataset_final.csv  (Final Dataset)
 ├── Notebook
 │    ├── Data Preparation
 │    │   ├── feature extraction.ipynb (Feature Extractor Notebook)
 │    │   └── dataset prep.ipynb
 │    ├──Data_Analysis.ipynb
+|    ├── Vector_Autoregression_(VAR).ipynb
 |
 ```
 
