@@ -18,6 +18,9 @@
 │    │   └── dataset prep.ipynb
 │    ├──Data_Analysis.ipynb
 |    ├── Vector_Autoregression_(VAR).ipynb
+|    ├── Visuaization and ARMAX Model.ipynb
+|    ├── Best fit for ARMAX Model.ipynb
+|    ├── Garch Model.ipynb
 |
 ```
 
