@@ -18,9 +18,11 @@
 │    │   └── dataset prep.ipynb
 │    ├──Data_Analysis.ipynb
 |    ├── Vector_Autoregression_(VAR).ipynb
+|    ├── VAR.ipynb (updated)
 |    ├── Visuaization and ARMAX Model.ipynb
 |    ├── Best fit for ARMAX Model.ipynb
 |    ├── Garch Model.ipynb
+|    ├── LSTM.ipynb (Deep Learning Based Forecasting)
 |
 ```
 
